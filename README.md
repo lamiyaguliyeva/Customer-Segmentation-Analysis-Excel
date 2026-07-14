@@ -1,2 +1,10 @@
-# Customer-Segmentation-Analysis-Excel
-Customer segmentation analysis using Excel, Power Query, Power Pivot and Pivot Tables to generate business insights.
+# Customer Segmentation Analysis
+
+## Tools Used
+- Excel
+- Power Query
+- Power Pivot
+- Pivot Tables
+
+## Overview
+Customer segmentation analysis using Excel to identify customer groups and generate business insights.
